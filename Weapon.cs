@@ -20,6 +20,7 @@ namespace RPGGame
     }
     class Damage
     {
-
+        public Damage() { }
+        public Damage(int damage) { }
     }
 }
