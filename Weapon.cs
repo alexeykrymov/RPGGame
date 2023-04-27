@@ -18,7 +18,8 @@ namespace RPGGame
         Crossbow,
         throwingAx
     }
-    internal class Weapon
+    class Damage
     {
+
     }
 }
